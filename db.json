@@ -1,0 +1,35 @@
+{
+  "favorites": [
+    {
+      "name": "Song One - Artist A.mp3",
+      "path": "http://localhost:3000/music/song-one.mp3"
+    },
+    {
+      "name": "Track Two - Artist B.mp3",
+      "path": "http://localhost:3000/music/track-two.mp3"
+    }
+  ],
+  "recently_played": [
+    {
+      "name": "Song One - Artist A.mp3",
+      "path": "http://localhost:3000/music/song-one.mp3"
+    }
+  ],
+  "playlists": [
+    {
+      "id": 1,
+      "name": "My Favorites"
+    },
+    {
+      "id": 2,
+      "name": "Chill Vibes"
+    }
+  ],
+  "playlist_songs": [
+    {
+      "playlist_id": 1,
+      "name": "Track Two - Artist B.mp3",
+      "path": "http://localhost:3000/music/track-two.mp3"
+    }
+  ]
+}
